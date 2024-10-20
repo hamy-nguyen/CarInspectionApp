@@ -23,3 +23,4 @@ This project consists of two parts:
    - Create a new Application.
    - Right-click and select `Run 'CarInspectionApplication'`.
    - This will start the backend API on `http://localhost:8080`.
+   - If there is a problem running the application, go to Setting -> Buid, Execution, Deployment -> Buid Tools -> Gradle -> Build and Run -> Select ItelliJ IDEA for both "Build and run using:" and "Run tests using:".
