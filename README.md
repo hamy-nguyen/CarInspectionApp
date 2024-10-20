@@ -1,4 +1,4 @@
-# VucarTechnicalTest
+# Vucar Technical Test
 
 # Car Inspection App
 
