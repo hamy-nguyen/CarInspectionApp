@@ -1,6 +1,6 @@
 # VucarTechnicalTest
 
-# Car Inspection System
+# Car Inspection App
 
 This project consists of two parts:
 1. **Backend**: A Spring Boot application running on Java, which serves the API for car inspections.
