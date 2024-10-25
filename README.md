@@ -1,5 +1,3 @@
-# Vucar Technical Test
-
 # Car Inspection App
 
 This project consists of two parts:
